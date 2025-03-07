@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.png
+runs/
+signature_dataset/
+synthetic_forged/
+*.pkl
+artbench10/
+artbench10_images/
