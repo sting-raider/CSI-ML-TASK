@@ -175,5 +175,5 @@ runs/
 signature_dataset/
 synthetic_forged/
 *.pkl
-artbench10/
+artbench10-py/
 artbench10_images/
